@@ -50,8 +50,7 @@ El resultado será un archivo `.dol` que puedes ejecutar en tu Wii con USB Loade
 
 ## 📄 Créditos
 
-Desarrollado por [Cristian Niño](https://github.com/cristianino)  
-Automatización del script por ChatGPT 🤖
+Desarrollado por [Cristian Niño](https://github.com/cristianino)
 
 ---
 
