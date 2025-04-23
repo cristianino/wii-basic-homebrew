@@ -26,37 +26,6 @@ wii-basic-homebrew/
 └── Makefile               # Makefile compatible con devkitPPC y GRRLIB
 ```
 
----
-
-## 🚀 Crear un nuevo proyecto basado en esta plantilla
-
-Puedes inicializar un nuevo proyecto fácilmente usando el siguiente script:
-
-### 1. Instala el script como comando global
-
-```bash
-# Clona este repositorio o descarga el script init-wii-project.sh
-chmod +x init-wii-project.sh
-mkdir -p ~/.local/bin
-mv init-wii-project.sh ~/.local/bin/init-wii-project
-echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
-source ~/.bashrc
-```
-
-### 2. Usa el comando para crear un nuevo proyecto
-
-```bash
-init-wii-project MiNuevoJuegoWii
-```
-
-Esto hará:
-
-- Clonar esta plantilla.
-- Renombrar el proyecto.
-- Limpiar el historial git.
-- Inicializar un nuevo repo limpio.
-
----
 
 ## 🧰 Requisitos
 
